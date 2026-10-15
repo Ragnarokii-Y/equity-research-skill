@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Equity Research：面向投资人的上市公司深度研究技能</title>
+<desc id="desc">结合公开披露、网络检索和本机 Excel iFinD，形成公司、行业、盈利与估值相互衔接的可追溯研究报告。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e38"/><stop offset="1" stop-color="#152f4c"/></linearGradient><linearGradient id="accent"><stop stop-color="#54ddc9"/><stop offset="1" stop-color="#8dc2ff"/></linearGradient></defs>
+<rect width="1280" height="420" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#2c4663" opacity=".5"><path d="M700 0v420M800 0v420M900 0v420M1000 0v420M1100 0v420M1200 0v420M650 70h630M650 170h630M650 270h630M650 370h630"/></g>
+<g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif">
+<rect x="48" y="44" width="240" height="30" rx="15" fill="#213f57"/><text x="168" y="65" fill="#74e4d2" font-size="12" text-anchor="middle" letter-spacing="1.5">CODEX · RESEARCH SKILL</text>
+<text x="48" y="139" fill="#f5f8ff" font-size="47" font-weight="700">让公司研究</text>
+<text x="48" y="202" fill="#f5f8ff" font-size="47" font-weight="700">形成清晰的投资逻辑</text>
+<rect x="48" y="228" width="86" height="4" rx="2" fill="url(#accent)"/>
+<text x="48" y="275" fill="#c3d1e2" font-size="19">公开披露 × 网页检索 × Excel iFinD</text>
+<text x="48" y="310" fill="#9fb2c9" font-size="16">按样稿组织论证，解释盈利传导，保留完整证据。</text>
+<g font-size="13" fill="#c3d1e2"><rect x="48" y="347" width="115" height="29" rx="7" fill="#243b56"/><text x="105" y="367" text-anchor="middle">可编辑报告</text><rect x="174" y="347" width="115" height="29" rx="7" fill="#243b56"/><text x="231" y="367" text-anchor="middle">可复核数据</text><rect x="300" y="347" width="115" height="29" rx="7" fill="#243b56"/><text x="357" y="367" text-anchor="middle">投资人视角</text></g>
+<rect x="742" y="49" width="482" height="322" rx="18" fill="#152740" stroke="#3d5977"/>
+<text x="768" y="84" fill="#b7cce4" font-size="14" letter-spacing="2">RESEARCH FRAMEWORK</text>
+<circle cx="1189" cy="78" r="5" fill="#54ddc9"/>
+<g stroke="#49617a" stroke-width="2"><path d="M974 158v38M974 264v36"/><path d="M843 216h262"/></g>
+<rect x="884" y="108" width="180" height="60" rx="10" fill="#243d59"/><text x="974" y="134" fill="#f1f7ff" font-size="20" font-weight="700" text-anchor="middle">理解公司</text><text x="974" y="155" fill="#adc1d7" font-size="12" text-anchor="middle">业务 · 项目 · 竞争力</text>
+<rect x="771" y="185" width="180" height="69" rx="10" fill="#1c3c49" stroke="#3a686a"/><text x="861" y="214" fill="#83e5d7" font-size="20" font-weight="700" text-anchor="middle">解释行业</text><text x="861" y="237" fill="#b0d1d3" font-size="12" text-anchor="middle">需求 · 供给 · 公司机会</text>
+<rect x="998" y="185" width="197" height="69" rx="10" fill="#283b58" stroke="#4e658a"/><text x="1096" y="214" fill="#aaceff" font-size="20" font-weight="700" text-anchor="middle">连接盈利</text><text x="1096" y="237" fill="#bdcce1" font-size="12" text-anchor="middle">量 · 价 · 成本 · 现金流</text>
+<rect x="884" y="286" width="180" height="59" rx="10" fill="#243d59"/><text x="974" y="313" fill="#f1f7ff" font-size="20" font-weight="700" text-anchor="middle">核验估值</text><text x="974" y="334" fill="#adc1d7" font-size="12" text-anchor="middle">预测口径 · 基准日 · 风险</text>
+</g></svg>

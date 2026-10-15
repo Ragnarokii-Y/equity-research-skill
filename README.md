@@ -1,7 +1,7 @@
 <div align="center">
 
-![Equity Research：面向投资人的上市公司深度研究技能](assets/readme-hero.svg)
 
+![上市公司研报](assets/readme-hero.svg)
 # Equity Research · 上市公司深度研究
 
 **把公开信息与数据库数据，转化为投资人读得懂、证据可追溯的研究报告。**
